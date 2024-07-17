@@ -1,2 +1,2 @@
-# Aplica-o-de-Tabuada---DNC
+# Aplicação de tabuada - DNC
 Minha primeira aplicação utilizando Javascript!
